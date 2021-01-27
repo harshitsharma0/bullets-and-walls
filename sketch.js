@@ -41,7 +41,7 @@ function draw() {
 	{
 		wall.shapeColor=color(255,0,0);
 		
-	}
+  }
 
 	
 
